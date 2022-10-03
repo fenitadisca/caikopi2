@@ -94,7 +94,7 @@
                     <div><a href="<?php echo base_url();?>/login" class="btn-get-started scrollto">Login</a></div>
                 </div>
                 <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-                    <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+                    <img src="assets/img/logo_kop.png" class="img-fluid animated" alt="" height="300" width="300">
                 </div>
             </div>
         </div>

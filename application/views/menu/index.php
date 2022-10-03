@@ -33,7 +33,7 @@
                         <td><?= $m['menu']; ?></td>
                         <td>
                             <a href="" class="badge badge-success">edit</a>
-                            <a href="<?= base_url();?> Menu/delete/<?= $m['id'];?>" class="badge badge-danger"
+                            <a href="<?= base_url();?>Menu/delete/<?= $m['id'];?>" class="badge badge-danger"
                                 onclick="return confirm('Are you sure want to delete this menu?')">delete</a>
                         </td>
                     </tr>
